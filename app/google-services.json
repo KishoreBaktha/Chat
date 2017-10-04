@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "296564280983",
+    "firebase_url": "https://chat-14fdd.firebaseio.com",
+    "project_id": "chat-14fdd",
+    "storage_bucket": "chat-14fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296564280983:android:cc13e0c19006f66b",
+        "android_client_info": {
+          "package_name": "com.example.kishorebaktha.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296564280983-r3jk5dsp2kciph3oufd3doq2s20njshu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kishorebaktha.chat",
+            "certificate_hash": "99470057071ca0531fee2b67402591158a15158e"
+          }
+        },
+        {
+          "client_id": "296564280983-06rrln9oigicv6af0k2r0s2lbpaseor5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlYU3-E5Bozms48uyhS_rCsFuOGT-bkFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296564280983-06rrln9oigicv6af0k2r0s2lbpaseor5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
